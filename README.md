@@ -78,6 +78,7 @@ Netflix’s content catalog showcases a diverse, globally-minded, and data-infor
 - Maintains a lean approach to TV content, with many short-lived series potentially designed to test audience traction or manage costs.
 
 ## Recommendations
+**1. Leverage Hybrid Genre Tagging in Recommendations**
 **Action**: Continue refining Netflix’s recommendation engine using cross-genre tags
 
 **Benefit**: Increases engagement by surfacing relevant content across user preferences, especially in niche segments.
